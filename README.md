@@ -1,3 +1,3 @@
 # GreatLLM
 
-跟着https://github.com/InternLM/Tutorial学习ing
+跟着https://github.com/InternLM/Tutorial 学习中
